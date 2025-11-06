@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = 72533026+jcardonamde@users.noreply.github.com
+	name = Jonathan Cardona
